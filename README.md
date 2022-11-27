@@ -25,7 +25,7 @@ SO THAT our own site is optimized for search engines
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
+![Mock up image](/assets/Mock-up/01-html-css-git-challenge-demo.png)
 
 **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px.
 
